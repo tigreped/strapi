@@ -21,7 +21,7 @@ If the installation failed, please remove the global packages related to Strapi.
 Create a development project
 
 1. Go to a folder on your computer `cd /path/to/my/folder`.
-2. Create a new project `strapi new myDevelopmentProject --dev`.
+2. Create a new project `sudo strapi new myDevelopmentProject --dev`.
 
 To generate a new plugin **run the following commands:**
 1. In your project folder `cd myDevelopmentProject && strapi generate:plugin my-plugin`.
